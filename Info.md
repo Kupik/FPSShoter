@@ -7,11 +7,11 @@ Bine ai venit la proiectul meu de joc! Acesta este un FPS interesant creat în U
 ### Gameplay
 <img src="http://github.com/Kupik/FPSShoter/blob/master/imagesGit/i1.png?raw=true" width="600">
 
-<img src="imagesGit/i2" width="600">
+<img src="https://github.com/Kupik/FPSShoter/blob/master/imagesGit/i2.png?raw=true" width="600">
 
-<img src="imagesGit/i3" width="600">
+<img src="https://github.com/Kupik/FPSShoter/blob/master/imagesGit/i3.png?raw=true" width="600">
 
-<img src="imagesGit/i4" width="600">
+<img src="https://github.com/Kupik/FPSShoter/blob/master/imagesGit/i4.png?raw=true" width="600">
 
 
 
