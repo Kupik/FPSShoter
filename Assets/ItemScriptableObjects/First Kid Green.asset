@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f696fb24d058b714291f119d5c77247c, type: 3}
+  m_Name: First Kid Green
+  m_EditorClassIdentifier: 
+  id: 6
+  name_item: First Aid Green
+  icon_item: {fileID: 21300000, guid: 791ae6cb9ed5b4301bb6925b78e26f45, type: 3}
+  prefab_item: {fileID: 599166314805577102, guid: 33d0c02ecc0979743b148f3821978eab, type: 3}
+  idle_animation: A_FP_PCH_Idle
+  weapon_tag: AK
+  itemType: 2
+  position_offset: {x: 0, y: 0, z: 0}
+  rotation_offset: {x: 0, y: 0, z: 0}
+  healthpoint: 10
+  isUsed: 0
+  canUsed: 1
+  isActive: 0
+  isEquipped: 0

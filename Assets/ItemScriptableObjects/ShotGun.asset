@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f696fb24d058b714291f119d5c77247c, type: 3}
+  m_Name: ShotGun
+  m_EditorClassIdentifier: 
+  id: 1
+  name_item: ShotGun
+  icon_item: {fileID: 21300000, guid: d046e191cca72234f808841e75fb8720, type: 3}
+  fireWeapon: 1
+  prefab_item: {fileID: 1273529562400482615, guid: 283d20420ffda294780848c4718459ef, type: 3}
+  idle_animation: A_FP_PCH_Idle
+  weapon_tag: AK
+  itemType: 1
+  position_offset: {x: 0.01, y: 0.02, z: 0}
+  rotation_offset: {x: 148.4, y: -49.2, z: 0}
+  healthpoint: 0
+  isUsed: 0
+  canUsed: 1
+  isActive: 0
